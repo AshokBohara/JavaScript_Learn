@@ -1,4 +1,5 @@
- let returnhome=true;
+//ternary operator in javascript
+let returnhome=true;
  function getHome()
  {
     return 'my home is located in bajhang'
