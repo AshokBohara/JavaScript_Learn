@@ -1,6 +1,7 @@
 //important notes for js.
 //*logical AND and logical OR.
-function getName (){
+function getName ()
+{
     return 'Ashok Bohara'
 }
 
@@ -16,6 +17,7 @@ let prefix="Er";
 console.log(`${prefix} ${Firstname} ${surname}`);
 
 //*Ternary Operators
+
 let returnAge =true;
 function getAgeInfo(age)
 {
@@ -25,8 +27,11 @@ function getCity()
 {
     return 'i am from Nepal';
 }
+
 //this is case of ifelse condition checking..
+
 if (returnAge)
+    
 {
     console.log(getAgeInfo(21))
 }
@@ -41,6 +46,7 @@ checking = condition ? statementFortrue : statementForFalse
 returnAge ? console.log(getAgeInfo(21)) : console.log(getCity())
 
 //* shorthand property Names
+
 const id =1;
 const title='product 1';
 const rating =5;
@@ -55,6 +61,7 @@ console.log(product);
 
 
 //* Object and array destructuring
+
 const productone=
 {
     productName :'productone',
