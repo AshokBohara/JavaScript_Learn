@@ -1,4 +1,4 @@
-//important notes for js.
+//important notes for javascript
 //*logical AND and logical OR.
 function getName ()
 {
