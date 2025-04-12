@@ -1,4 +1,4 @@
-//ternary operator in javascript
+//ternary operator in javascripts
 let returnhome=true;
  function getHome()
  {
