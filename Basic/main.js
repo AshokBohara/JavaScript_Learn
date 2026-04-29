@@ -1,4 +1,5 @@
 //important notes for javascript
+
 //*logical AND and logical OR.
 function getName ()
 {
@@ -43,6 +44,7 @@ function getCity()
 // checking = condition ? statementFortrue : statementForFalse
 
 returnAge ? console.log(getAgeInfo(21)) : console.log(getCity())
+
  //* shorthand property Names
 
 const id =1;
